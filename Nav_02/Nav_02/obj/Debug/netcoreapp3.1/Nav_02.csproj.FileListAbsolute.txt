@@ -1,0 +1,17 @@
+C:\Users\Developer\Documents\Nav_02\Nav_02\bin\Debug\netcoreapp3.1\Nav_02.exe
+C:\Users\Developer\Documents\Nav_02\Nav_02\bin\Debug\netcoreapp3.1\Nav_02.deps.json
+C:\Users\Developer\Documents\Nav_02\Nav_02\bin\Debug\netcoreapp3.1\Nav_02.runtimeconfig.json
+C:\Users\Developer\Documents\Nav_02\Nav_02\bin\Debug\netcoreapp3.1\Nav_02.runtimeconfig.dev.json
+C:\Users\Developer\Documents\Nav_02\Nav_02\bin\Debug\netcoreapp3.1\Nav_02.dll
+C:\Users\Developer\Documents\Nav_02\Nav_02\bin\Debug\netcoreapp3.1\Nav_02.pdb
+C:\Users\Developer\Documents\Nav_02\Nav_02\obj\Debug\netcoreapp3.1\Nav_02.csproj.AssemblyReference.cache
+C:\Users\Developer\Documents\Nav_02\Nav_02\obj\Debug\netcoreapp3.1\Nav_02.Form1.resources
+C:\Users\Developer\Documents\Nav_02\Nav_02\obj\Debug\netcoreapp3.1\Nav_02.csproj.GenerateResource.cache
+C:\Users\Developer\Documents\Nav_02\Nav_02\obj\Debug\netcoreapp3.1\Nav_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Developer\Documents\Nav_02\Nav_02\obj\Debug\netcoreapp3.1\Nav_02.AssemblyInfoInputs.cache
+C:\Users\Developer\Documents\Nav_02\Nav_02\obj\Debug\netcoreapp3.1\Nav_02.AssemblyInfo.cs
+C:\Users\Developer\Documents\Nav_02\Nav_02\obj\Debug\netcoreapp3.1\Nav_02.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Documents\Nav_02\Nav_02\obj\Debug\netcoreapp3.1\Nav_02.dll
+C:\Users\Developer\Documents\Nav_02\Nav_02\obj\Debug\netcoreapp3.1\Nav_02.pdb
+C:\Users\Developer\Documents\Nav_02\Nav_02\obj\Debug\netcoreapp3.1\Nav_02.genruntimeconfig.cache
+C:\Users\Developer\Documents\Nav_02\Nav_02\obj\Debug\netcoreapp3.1\Nav_02.Properties.Resources.resources
